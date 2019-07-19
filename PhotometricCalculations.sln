@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PhotometricCalculations", "PhotometricCalculations\PhotometricCalculations.vbproj", "{E2B502A7-EA20-4785-9C6E-47542594125E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2B502A7-EA20-4785-9C6E-47542594125E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B502A7-EA20-4785-9C6E-47542594125E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2B502A7-EA20-4785-9C6E-47542594125E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2B502A7-EA20-4785-9C6E-47542594125E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ABA0B0E-0F42-4F88-A1AA-7770DA3A164F}
+	EndGlobalSection
+EndGlobal
